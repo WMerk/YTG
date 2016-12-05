@@ -8,7 +8,7 @@ Als Trennzeichen wird nun auch "," akzeptiert.
 Der Parser ist eine Konsolenanwendung. 
 Aufruf:
 
-`java -jar ytg.-1.0.jar <CSV Dateiname>`
+`java -jar ytg.-1.x.jar <CSV Dateiname>`
 
 ## Hinweise
 
