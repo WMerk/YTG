@@ -1,5 +1,8 @@
 #YouTrackGantt Parser
 
+## Update to Version 1.1
+Als Trennzeichen wird nun auch "," akzeptiert. 
+
 ## Benutzung
 
 Der Parser ist eine Konsolenanwendung. 
