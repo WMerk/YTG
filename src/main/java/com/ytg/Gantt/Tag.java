@@ -1,15 +1,8 @@
-package Gantt;
+package com.ytg.Gantt;
 
-import Comperators.DateComperator;
+import com.ytg.Comperators.DateComperator;
 
-import java.sql.Timestamp;
-import java.text.DateFormat;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.*;
-
-import static java.util.Locale.ENGLISH;
-import static java.util.Locale.GERMAN;
 
 /**
  * Created by Waldemar on 01.12.2016.

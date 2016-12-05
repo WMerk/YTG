@@ -1,6 +1,6 @@
-package Gantt;
-import Comperators.DateComperator;
-import Comperators.TagComporator;
+package com.ytg.Gantt;
+import com.ytg.Comperators.DateComperator;
+import com.ytg.Comperators.TagComporator;
 
 import java.util.List;
 import java.util.Vector;

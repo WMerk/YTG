@@ -1,4 +1,4 @@
-package Gantt;
+package com.ytg.Gantt;
 
 /**
  * Created by Waldemar on 01.12.2016.

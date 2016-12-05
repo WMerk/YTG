@@ -1,6 +1,6 @@
-package Comperators;
+package com.ytg.Comperators;
 
-import Gantt.Issue;
+import com.ytg.Gantt.Issue;
 
 import java.util.Comparator;
 

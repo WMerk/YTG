@@ -1,4 +1,4 @@
-package Gantt;
+package com.ytg.Gantt;
 
 import java.util.List;
 import java.util.Vector;

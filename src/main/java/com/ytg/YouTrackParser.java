@@ -1,6 +1,8 @@
-import Gantt.GanttDiagramm;
-import Gantt.Issue;
-import Gantt.MsIssue;
+package com.ytg;
+
+import com.ytg.Gantt.GanttDiagramm;
+import com.ytg.Gantt.Issue;
+import com.ytg.Gantt.MsIssue;
 
 import java.io.*;
 import java.util.List;

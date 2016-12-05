@@ -1,4 +1,4 @@
-package Gantt;
+package com.ytg.Gantt;
 
 import java.sql.Timestamp;
 import java.text.DateFormat;

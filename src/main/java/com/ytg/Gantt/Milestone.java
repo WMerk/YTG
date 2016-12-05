@@ -1,5 +1,5 @@
-package Gantt;
-import Comperators.SprintComporator;
+package com.ytg.Gantt;
+import com.ytg.Comperators.SprintComporator;
 
 import java.util.List;
 import java.util.Vector;

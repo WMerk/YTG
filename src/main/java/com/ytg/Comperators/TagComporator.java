@@ -1,5 +1,5 @@
-package Comperators;
-import Gantt.Issue;
+package com.ytg.Comperators;
+import com.ytg.Gantt.Issue;
 import java.util.Comparator;
 
 /**
