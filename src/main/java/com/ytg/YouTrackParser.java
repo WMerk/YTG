@@ -58,6 +58,7 @@ public class YouTrackParser {
                 {
                     System.out.println("WARNUNG: Zeile " + lineNumber + " beginnt nicht mit einem Anführungszeichen. CSV-Datei überprüfen.");
                 }
+                line = line.replace("\",\"","\";\"");
                 String[] csvIssue = line.split(DELIMITER);
                 Issue tmp = new Issue();
 
