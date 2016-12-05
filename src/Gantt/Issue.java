@@ -11,7 +11,7 @@ import java.util.Date;
  */
 public class Issue {
 
-    private static final SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy HH.mm.ss");
+    private static final SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy HH:mm:ss");
 
     public String getIssueId() {
         return IssueId;
